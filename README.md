@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Turning ideas into reality with Vue.js, React, and Flutter.<br>🎨 Passionate about clean design and seamless user experiences.<br>🔧 Constantly improving, experimenting, and learning. Open to new opportunities!<br>🌟 Obsessed with crafting clean and efficient code that scales.<br>🤖 AI Learner & Innovator<br>🤡 Fun Fact: The first website ever created is still online! It was launched by Tim Berners-Lee in 1991 and can be visited at info.cern.ch.
+💻 Turning ideas into reality with Vue.js, React, and Flutter.<br>🎨 Passionate about clean design and seamless user experiences.<br>🔧 Constantly improving, experimenting, and learning. Open to new opportunities!<br>🌟 Obsessed with crafting clean and efficient code that scales.<br>🤖 AI Learner & Innovator<br>🤡 - ML
 
 
 ## 🌐 Socials:
