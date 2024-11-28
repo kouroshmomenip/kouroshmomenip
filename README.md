@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Turning ideas into reality with Quasar, Django, Wordpress, and Flutter.<br>🎨 UI/UX Designer-Figma , Passionate about clean design and seamless user experiences, .<br>🔧 Constantly improving, experimenting, and learning. Open to new opportunities!<br>🌟 Obsessed with crafting clean and efficient code that scales.<br>🤖 AI Learner & Innovator - ML
+💻 Turning ideas into reality with , Django, Python,JS, and Flutter.<br>🎨 UI/UX Designer-Figma , Passionate about clean design and seamless user experiences, .<br>🔧 Constantly improving, experimenting, and learning. Open to new opportunities!<br>🌟 Obsessed with crafting clean and efficient code that scales.<br>🤖 AI Learner & Innovator - ML
 
 
 ## 🌐 Socials:
